@@ -1,0 +1,9 @@
+.Foot_div{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    height: 70px;
+    background-color: azure;
+}

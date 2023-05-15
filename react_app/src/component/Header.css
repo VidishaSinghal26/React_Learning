@@ -1,0 +1,11 @@
+.Head_div{
+    text-align: center;
+    height: 70px;
+    background-color: azure;
+}
+.Head_list{
+    padding: 20px;
+    display: flex;
+    justify-content:space-around;
+    list-style-type: none;
+}
