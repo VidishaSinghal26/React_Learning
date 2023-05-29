@@ -18,6 +18,7 @@ import CountClass from './component/CountClass';
 import Hooks from './component/Hooks';
 import Count from './component/Count';
 import IncreDecre from './component/IncreDecre';
+import RandomNumber from './component/FunctionalComponent/SmallProjects/RandomNumber';
 
 
 
@@ -25,7 +26,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
   <BrowserRouter>
-         <App/>
+         <RandomNumber/>
     </BrowserRouter>
    
   </React.StrictMode>
